@@ -86,3 +86,18 @@ static | 기준 없음 | O
 relative | 요소 자신 | X
 absolute | 위치 상 부모 요소 | X
 fixed | 뷰포트 | X
+
+# 원시 HTML(Raw HTML)
+
+나는 <span style="text-decoration: underline;">행복</span>해진다.<br />
+반드시 행복해진다.<br />
+나의 행복은 예정되어있다.
+
+<a href="https://naver.com"
+title="NAVER로 이동"
+target="_blank">NAVER</a>
+
+# 수평선 (Horizontal Rule)
+---
+***
+___
